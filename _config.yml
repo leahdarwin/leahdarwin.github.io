@@ -9,7 +9,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-  - jekyll-remote-theme
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
@@ -35,4 +34,3 @@ sidebar:
 # adding this avoids it
 github: [metadata]
 
-remote_theme: BDHU/minimalist
