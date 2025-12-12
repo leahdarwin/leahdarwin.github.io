@@ -23,7 +23,7 @@ I use a mitonuclear genetic model that places foreign mitochondrial genotypes on
 
 ### Experimenal evolution of mitonuclear genotypes*
 
-*Presented at SMBE2024 ([abstract](https://smbe2024.org/files/Abstract-Book_SMBE-2024.pdf#page=563),[slides](/assets/darwin_SMBE24/index.html)) and DROS2025 ([abstract](https://submissions.mirasmart.com/Drosophila2025/Itinerary/PresentationDetail.aspx?evdid=74), [slides](/assets/darwin_DROS25/index.html))
+*Presented at SMBE2024 ([abstract](https://smbe2024.org/files/Abstract-Book_SMBE-2024.pdf#page=563), [slides](/assets/darwin_SMBE24/index.html)) and DROS2025 ([abstract](https://submissions.mirasmart.com/Drosophila2025/Itinerary/PresentationDetail.aspx?evdid=74), [slides](/assets/darwin_DROS25/index.html))
 
 ![population cage](/assets/img/popcage.jpeg)
 
@@ -43,13 +43,3 @@ In this project, I have actively maintained 24 replicate populations of _Drosoph
 	
 *	[Dynamics of prion proliferation under combined treatment of pharmacological chaperones and interferons](https://doi.org/10.1016/j.jtbi.2021.110797) (2021) _Journal of Theoretical Biology_ <br>
 	Garzón, D. N., Castillo, Y., Navas-Zuloaga, M. G., **Darwin, L.**, Hardin, A., Culik, N., Yang, A., Castillo-Garsow, C., Ríos-Soto, K., Arriola, L., & Ghosh, A. 
-	
-
-	
-
-
-
-
-
-
-
