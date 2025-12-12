@@ -23,7 +23,7 @@ I use a mitonuclear genetic model that places foreign mitochondrial genotypes on
 
 ### Experimenal evolution of mitonuclear genotypes*
 
-*Presented at SMBE2024 and DROS2025 (view slides [here](/assets/darwin_SMBE24/index.html) and [here](/assets/darwin_DROS25/index.html))
+*Presented at SMBE2024 ([abstract](https://smbe2024.org/files/Abstract-Book_SMBE-2024.pdf#page=563),[slides](/assets/darwin_SMBE24/index.html)) and DROS2025 ([abstract](https://submissions.mirasmart.com/Drosophila2025/Itinerary/PresentationDetail.aspx?evdid=74), [slides](/assets/darwin_DROS25/index.html))
 
 ![population cage](/assets/img/popcage.jpeg)
 
