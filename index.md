@@ -6,7 +6,7 @@ layout: default
 
 **I am currently looking for a postdoctoral position starting Summer 2026.**
 
-I am a PhD candidate at Brown University at the Center for Computational Molecular Biology, advised by [Dr. David Rand](https://vivo.brown.edu/display/drand). Working with a _Drosophila_ model system, I study the role of mitochondrial genetic variation and its interactions with nuclear genomes and/or the environment in quantitative traits and adaptive evolution. 
+I am a PhD candidate at Brown University at the Center for Computational Molecular Biology, advised by [Dr. David Rand](https://vivo.brown.edu/display/drand). Working with a _Drosophila_ model system, I study the role of mitochondrial genetic variation in quantitative traits and adaptive evolution. I am particularly interested in how these effects depend on interactions with nuclear genomes and the environment.
 
 Before starting my PhD, I earned a BS in Computer Science and a BS in Applied Mathematics, with a minor in Biological Sciences, from Arizona State University. There, I worked primarily with systems of ordinary differential equations to model biological processes, such as the infection dynamics of misfolded prion proteins or the Dengue virus in novel populations. 
 
@@ -19,7 +19,7 @@ I have interned at Los Alamos National Lab with [Dr. Chris Neale](https://cnls.l
 
 ![complex traits](/assets/img/gdl_pheno.png)
 
-I use a mitonuclear genetic model that places forgein mitochondrial genotypes onto common nuclear backgrounds to create genetic mismatches of varying degree. By sampling mtDNA variation from two natural populations in Zimbabwe and Beijing and two related species, I quantify the relative contribution of mitonuclear interactions to four complex traits. Additionally, I use an environmental stressor, rotenone, to uncover how genotype-environment interactions further influence these traits. 
+I use a mitonuclear genetic model that places foreign mitochondrial genotypes onto common nuclear backgrounds to create genetic mismatches of varying degree. By sampling mtDNA variation from two natural populations in Zimbabwe and Beijing and two related species, I quantify the relative contribution of mitonuclear interactions to four complex traits. Additionally, I use an environmental stressor, rotenone, to uncover how genotype-environment interactions further influence these traits. 
 
 ### Experimenal evolution of mitonuclear genotypes*
 
