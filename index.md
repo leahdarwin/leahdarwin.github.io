@@ -32,7 +32,7 @@ In this project, I have actively maintained 24 replicate populations of _Drosoph
 
 ## Other publications 
 
-*	Absence of Mother’s Curse for performance traits among divergent mtDNAs in heterozygous nuclear backgrounds in Drosophila (2025) _Evolution_, in revision. <br>
+*	[Absence of Mother’s Curse for performance traits among divergent mtDNAs in heterozygous nuclear backgrounds in Drosophila](https://doi.org/10.64898/2025.12.17.694680) (2025) _Evolution_, in revision. <br>
 	Rand, D. M., Lemieux, F. A., Bradley, K. M., Marmor, L., **Darwin, L. J.**, & Raynes, Y. <br>
 
 *	[Sex, tissue, and mitochondrial interactions modify the transcriptional response to rapamycin in Drosophila](https://doi.org/10.1186/s12864-024-10647-x) (2024) _BMC Genomics_ <br>
